@@ -14,7 +14,7 @@ $ cd desktop/class-projects
 2. Clone the webpack-starter into your parent folder with the following command:
 
 ```
-$ git clone https://github.com/SJCCodeTalk/webpack-starter.git
+$ git clone https://github.com/SJCCodeTalk/webpack-starter-2019.git
 ```
 3. Change the name of webpack-starter to reflect the name of your project
 
