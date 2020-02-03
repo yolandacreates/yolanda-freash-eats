@@ -1,3 +1,24 @@
 body {
-    background: #a1dae3 url("../media/webpacklogo.png") repeat;
+    background: rgb(63, 194, 166);
+}
+
+@media (min-width: 600px) {
+    body {
+        background-color: rgb(128, 128, 128);
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 20px;
+    text-decoration: none;
 }
